@@ -1,0 +1,16 @@
+{
+  "name": "v3-position-telegram",
+  "version": "1.0.0",
+  "description": "Simple telegram bot to watch if positions are in range",
+  "main": "index.js",
+  "author": "l3wi",
+  "license": "MIT",
+  "dependencies": {
+    "@uniswap/sdk-core": "^3.0.1",
+    "@uniswap/v3-sdk": "^3.5.1-optimism-regensis",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1",
+    "flat-cache": "^3.0.4",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
